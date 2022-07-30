@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    background-color: #3867D6;
+    color: white;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+.input-text{
+    width: 500px;
+    height: 400px;
+    background-color: #3867D6;
+    color: white;
+    padding: 20px;
+    border: 2px solid #46474B;
+    border-radius: 5px;
+}
+
+.output-text{
+    width: 450px;
+    height: 550px;
+    background-color: #464646;
+    color: white;
+    padding: 20px 20px 0;
+    box-shadow: 3px 3px 25px black;
+    border-radius: 5px;
+}
